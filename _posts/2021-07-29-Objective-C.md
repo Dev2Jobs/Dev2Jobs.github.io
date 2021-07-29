@@ -8,6 +8,8 @@ title:  "Objective-C block"
 
 I hope you like it!
 
+https://yulran.tistory.com/125
+
 Objective-C block에서 캡쳐에 대한 고찰
 
 
