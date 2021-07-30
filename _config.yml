@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "info" # "Site Title"
+title                    : "Next Step" # "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "info" # site tagline that appears below site title in masthead
 name                     : "Dev2Jobs" # "Your Name"
 description              : # "An amazing website."
 url                      : "https://Dev2Jobs.github.io"
